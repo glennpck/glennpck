@@ -10,14 +10,6 @@
 
 - 🤫 Spoiler: オタクです
 
-<h3 align="left">🎵 I Love Music</h3>
-
-**Currently Listening To**
-
-[![Spotify](https://novatorem-glennpck.vercel.app/api/spotify)](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
-
-[<img src="https://novatorem-glennpck.vercel.app/api/spotify-playing" alt="Spotify" width="350" />](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
-
 <h2 align="left">🔅 IT Career</h2>
 
 - 🤖 &nbsp;Currently Expressing Heavy Interest in Development of Artificial Intelligence
@@ -36,6 +28,10 @@
 
 * | Docker<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 * | GitHub Actions<img align="left" width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
+
+**Currently Working On**
+
+* Docker/Vercel Interaction for deploying Web Api
 
 **Connect With Me**
 
