@@ -14,7 +14,7 @@
 
 &nbsp;**Currently Listening To**
 
-[<img src="https://novatorem-sigma-six.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
+[<img src="https://novatorem-glennpck.vercel.app/api/spotify-playing" alt="Spotify" width="350" />](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
 
 <h2 align="left">🔅 IT Career</h2>
 
