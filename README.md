@@ -14,7 +14,14 @@
 
 &nbsp;**Currently Listening To**
 
-[![Spotify](https://novatorem-sigma-six.vercel.app/api/spotify)](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
+<table width="100%"> 
+  <tr>
+  <td width="100%">
+
+&nbsp; [![Spotify](https://novatorem-sigma-six.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
+
+  </td>
+</table>
 
 <h2 align="left">🔅 IT Career</h2>
 
