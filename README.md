@@ -12,7 +12,9 @@
 
 <h3 align="left">🎵 I Love Music</h3>
 
-&nbsp;**Currently Listening To**
+**Currently Listening To**
+
+[![Spotify](https://novatorem-glennpck.vercel.app/api/spotify)](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
 
 [<img src="https://novatorem-glennpck.vercel.app/api/spotify-playing" alt="Spotify" width="350" />](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
 
