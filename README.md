@@ -37,6 +37,7 @@
 **Currently Working On**
 
 * Python Development/PHP Programming
+* Deep Learning Neural Network Models
 
 **Connect With Me**
 
