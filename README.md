@@ -10,6 +10,11 @@
 
 - 🤫 Spoiler: オタクです
 
+<h2 align="left">🎵 I Love Music!</h2>
+
+🎧 &nbsp;**Currently Listening To**
+[![Spotify](https://spotify-playing-glennpck.vercel.app/api/spotify)](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
+
 <h2 align="left">🔅 IT Career</h2>
 
 - 🤖 &nbsp;Currently Expressing Heavy Interest in Development of Artificial Intelligence
