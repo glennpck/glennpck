@@ -10,7 +10,7 @@
 
 - 🤫 Spoiler: オタクです
 
-<h2 align="center">🎵 Currently Listening To</h2>
+<h2 align="left">🎵 Currently Listening To</h2>
 
 [![Spotify](https://spotify-playing-glennpck.vercel.app/api/spotify)](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
 
@@ -25,7 +25,7 @@
 * 🏗️ Python | C# | Java | C++
 * 🏠 SQL | MySQL | SQLite | Google Firestore
 * 📽️ GitHub | BitBucket
-* 💻 HTML | CSS | Javascript | Node.JS | Bootstrap
+* 💻 HTML | CSS | Javascript | Node.JS | Bootstrap | PHP
 * 📱 Android Studio
 
 **Currently Learning**
@@ -36,7 +36,7 @@
 
 **Currently Working On**
 
-* Docker/Vercel Interaction for deploying Web Api
+* Python Development/PHP Programming
 
 **Connect With Me**
 
