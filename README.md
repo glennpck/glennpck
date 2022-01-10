@@ -19,6 +19,7 @@
 - 🤖 &nbsp;Currently Expressing Heavy Interest in Development of Artificial Intelligence
 - 📈 &nbsp;Multiple Experiences with Data Science and Machine Learning for Data Prediction Analysis
 - 🔧 &nbsp;Experiences as a Developer in Multiple Categories E.g. Web Application/Mobile Application
+- 🐍 &nbsp;Majority of time and experience invested in Python
 
 &nbsp;**Picked Up**
 
@@ -47,6 +48,3 @@
 
 
 <h3 align="left">See you around 😺👋</h3>
-
-
-
