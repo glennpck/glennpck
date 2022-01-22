@@ -19,7 +19,7 @@
 - 🤖 &nbsp;Currently Expressing Heavy Interest in Development of Artificial Intelligence
 - 📈 &nbsp;Multiple Experiences with Data Science and Machine Learning for Data Prediction Analysis
 - 🔧 &nbsp;Experiences as a Developer in Multiple Categories E.g. Web Application/Mobile Application
-- 🐍 &nbsp;Majority of time and experience invested in Python
+- 🐍 &nbsp;Majority of time and experience invested in Python (Data Science/Development)
 
 &nbsp;**Picked Up**
 
@@ -39,8 +39,9 @@
 
 **Currently Working On**
 
-* Python Development/PHP Programming
-* Deep Learning Neural Network Models
+* Python Development
+* Neural Networks (Convolutional and Recurrent)
+* Hyperparameter fine tuning for Deep Learning
 
 **Connect With Me**
 
