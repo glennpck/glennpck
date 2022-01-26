@@ -16,10 +16,10 @@
 
 <h2 align="left">🔅 IT Career</h2>
 
-- 🤖 &nbsp;Currently Expressing Heavy Interest in Development of Artificial Intelligence
-- 📈 &nbsp;Multiple Experiences with Data Science and Machine Learning for Data Prediction Analysis
+- 🤖 &nbsp;Currently Expressing Interest in Development of AI
+- 📈 &nbsp;Enjoys Creating Machine Learning Models for Data Prediction/Classification on Python
 - 🔧 &nbsp;Experiences as a Developer in Multiple Categories E.g. Web Application/Mobile Application
-- 🐍 &nbsp;Majority of time and experience invested in Python (Data Science/Development)
+- 🐍 &nbsp;Majority of time and experience invested in Python (Data Science and App Development)
 
 &nbsp;**Picked Up**
 
