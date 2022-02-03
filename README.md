@@ -31,15 +31,15 @@
 
 **Currently Learning**
 
-* |Docker<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
 * |Keras CNN/RNN<img align="left" width="26px" src="https://img.stackshare.io/service/5601/keras.png" />
+* Ways to Automate Report Writing so I don't have to suffer
 
 **Currently Working On**
 
-* Python Development
 * Neural Networks (Convolutional and Recurrent)
 * Hyperparameter fine tuning for Deep Learning
+* Recurrent NLP
+* Trying to gain sanity back by resting
 
 **Connect With Me**
 
