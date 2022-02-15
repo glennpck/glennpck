@@ -25,21 +25,18 @@
 
 * 🏗️ Python | C# | Java | C++
 * 🏠 SQL | MySQL | SQLite | Google Firestore
-* 📽️ GitHub | BitBucket | GitHub Actions | Vercel
+* 📽️ GitHub | BitBucket | GitHub Actions
+* 📺 Vercel | Heroku | Docker
 * 💻 HTML | CSS | Javascript | Node.JS | Bootstrap | PHP
 * 📱 Android Studio
 
 **Currently Learning**
 
-* |Keras CNN/RNN<img align="left" width="26px" src="https://img.stackshare.io/service/5601/keras.png" />
-* Ways to Automate Report Writing so I don't have to suffer
+* How to sleep well
 
 **Currently Working On**
 
-* Neural Networks (Convolutional and Recurrent)
-* Hyperparameter fine tuning for Deep Learning
-* Recurrent NLP
-* Trying to gain sanity back by resting
+* Sleeping well
 
 **Connect With Me**
 
