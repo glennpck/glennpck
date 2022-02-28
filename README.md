@@ -6,7 +6,9 @@
 
 - 🔇 Enjoying the time to myself for a peace of mind
 
-- 📖 Love Reading and Collecting Paperback Light Novels
+- 📖 Love Reading! Manga, Books, Light Novels, Web Novels, I read them!
+
+- 🎧 Can't live without music
 
 - 🤫 Spoiler: オタクです
 
