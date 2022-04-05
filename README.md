@@ -22,6 +22,7 @@
 - 📈 &nbsp;Enjoys Creating Machine Learning Models for Data Prediction/Classification on Python
 - 🔧 &nbsp;Experiences as a Developer in Multiple Categories E.g. Web Application/Mobile Application
 - 🐍 &nbsp;Majority of time and experience invested in Python (Data Science and App Development)
+- 😷 &nbsp;Bashing my head against the wall over Mathematical and Computer Sciences
 
 &nbsp;**Picked Up**
 
