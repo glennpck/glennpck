@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to My Place! I go by Glenn! 👋</h1>
-<h3 align="center">Enjoyment in Creation 😸</h3>
 <p align="center">Languages: English | Chinese | Japanese(Learning)</p>
 
 - 👽 A curious being who searches for new skills to learn
