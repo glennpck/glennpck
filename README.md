@@ -5,11 +5,7 @@
 
 - 🔇 Enjoying the time to myself for a peace of mind
 
-- 📖 Love Reading! Manga, Books, Light Novels, Web Novels, I read them!
-
 - 🎧 Can't live without music
-
-- 🤫 Spoiler: オタクです
 
 <h2 align="left">🎵 Currently Listening To</h2>
 
@@ -34,11 +30,11 @@
 
 **Currently Learning**
 
-* How to sleep well
+Polynomial Regression Algorithm
 
 **Currently Working On**
 
-* Sleeping well
+-
 
 **Connect With Me**
 
