@@ -1,9 +1,7 @@
-<h1 align="center">Welcome to My Place! I go by Glenn! 👋</h1>
+<h1 align="center">Welcome! I'm Glenn! 👋</h1>
 <p align="center">Languages: English | Chinese | Japanese(Learning)</p>
 
 - 👽 A curious being who searches for new skills to learn
-
-- 🔇 Enjoying the time to myself for a peace of mind
 
 - 🎧 Can't live without music
 
@@ -14,10 +12,9 @@
 <h2 align="left">🔅 IT Career</h2>
 
 - 🤖 &nbsp;Currently Expressing Interest in Development of AI
-- 📈 &nbsp;Enjoys Creating Machine Learning Models for Data Prediction/Classification on Python
+- 📈 &nbsp;Well-versed in Machine Learning model development and Data Engineering/Cleaning on Python
 - 🔧 &nbsp;Experiences as a Developer in Multiple Categories E.g. Web Application/Mobile Application
 - 🐍 &nbsp;Majority of time and experience invested in Python (Data Science and App Development)
-- 😷 &nbsp;Bashing my head against the wall over Mathematical and Computer Sciences
 
 &nbsp;**Picked Up**
 
@@ -27,14 +24,15 @@
 * 📺 Vercel | Heroku | Docker
 * 💻 HTML | CSS | Javascript | Node.JS | Bootstrap | PHP
 * 📱 Android Studio
+* 🤖 UIPath
 
 **Currently Learning**
 
-Polynomial Regression Algorithm
+- In-Depth Java
 
 **Currently Working On**
 
--
+- Data Engineering/Cleaning and Process Automation
 
 **Connect With Me**
 
