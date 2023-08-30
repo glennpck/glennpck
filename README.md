@@ -1,5 +1,4 @@
 <h1 align="center">Welcome! I'm Glenn! 👋</h1>
-<p align="center">Languages: English | Chinese | Japanese(Learning)</p>
 
 - 👽 A curious being who searches for new skills to learn
 
@@ -18,8 +17,8 @@
 
 &nbsp;**Picked Up**
 
-* 🏗️ Python | C# | Java | C++
-* 🏠 SQL | MySQL | SQLite | Google Firestore
+* 🏗️ Python | Java | C++
+* 🏠 SQL | MySQL | SQLite 
 * 📽️ GitHub | BitBucket | GitHub Actions
 * 📺 Vercel | Heroku | Docker
 * 💻 HTML | CSS | Javascript | Node.JS | Bootstrap | PHP
@@ -28,11 +27,11 @@
 
 **Currently Learning**
 
-- In-Depth Java
+- ReactJS, NextJS, TypeScript, Docker
 
 **Currently Working On**
 
-- Data Engineering/Cleaning and Process Automation
+- Personal Projects
 
 **Connect With Me**
 
