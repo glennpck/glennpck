@@ -1,7 +1,5 @@
 <h1 align="center">Welcome! I'm Glenn! 👋</h1>
 
-- 🎧 Can't live without music
-
 <h2 align="left">🎵 Currently Listening To</h2>
 
 [![Spotify](https://spotify-playing-glennpck.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nywfg09j2k83q5asavj18qx9y)
