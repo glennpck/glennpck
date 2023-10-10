@@ -7,7 +7,6 @@
 <h2 align="left">📖 Hobbies and Likes</h2>
 
 - 📖 &nbsp;I like reading during my non-working periods
-- 🎶 &nbsp;Exploring different generations and genres of music
 - 👨‍💻 &nbsp;Doing LeetCode to further enhance my programming language capabilities
 
 <h2 align="left">🔅 IT Career</h2>
