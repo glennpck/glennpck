@@ -11,9 +11,9 @@
 
 <h2 align="left">🔅 IT Career</h2>
 
-- 🔧 &nbsp;Development in Multiple Categories E.g. Web Application, Mobile Application, E-Commerce Website, Databases, Web Development
-- 🤖 &nbsp;Experiences working in development lifecycle format E.g. Agile through Scrum, Continuous Integration/Continuous Deployment, Testing and Automation
-- 📈 &nbsp;Well-versed in Machine Learning model development and Data Engineering/Cleaning on Python (Scikit, Tensorflow, Numpy, Pandas)
+- 🔧 &nbsp;Developer in Multiple Categories (Web App, Mobile App, Website, Database)
+- 🤖 &nbsp;Experiences working in development lifecycle format (Agile through Scrum, CI/CD, Testing and Automation)
+- 📈 &nbsp;Well-versed in Machine Learning model development and Data Engineering/Cleaning on Python
 - 🐍 &nbsp;Majority of time and experience invested in Python (Data Science and App Development)
 
 👾 &nbsp;**Languages**
