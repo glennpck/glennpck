@@ -30,7 +30,7 @@
 
 **Connect With Me**
 
-<a href="https://www.linkedin.com/in/glenn-peh-133bb7185/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px" /></a>
+<a href="https://www.linkedin.com/in/glenn-peh-21b7062a8/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px" /></a>
 
 
 <h3 align="left">See you around 😺👋</h3>
