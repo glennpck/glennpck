@@ -1,5 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ba78c950-badb-4c5d-b261-c1ecabadec90" width="100%" />
-
+<img src="https://github.com/user-attachments/assets/cb7ceca1-749c-41ba-8062-32ab6fd44941" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Glenn</h1>
 <h3 align="center">Passionate & Aspiring Software Developer & Engineer</h3>
