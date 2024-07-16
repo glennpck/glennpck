@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/2b12049e-da2d-449c-8698-2772017aca15" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Glenn</h1>
-<h3 align="center">Passionate and Aspiring Software Developer & Engineer</h3>
+<h3 align="center">Passionate & Aspiring Software Developer & Engineer</h3>
 <img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv">
 
 - 🔭 I’m currently working on **: RESTful API**
