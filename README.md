@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **: RESTful API**
 
-- 🌱 I’m currently learning **: GOLANG, JAVA**
+- 🌱 I’m currently learning **: GOLANG**
 
 - 💬 Ask me about **: Python, Data Engineering, AI Models**
 
